@@ -8,6 +8,10 @@
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
+!.yarn/sdks
+
+# env files (can opt-in for committing if needed)
+.env*
 !.yarn/versions
 
 # testing

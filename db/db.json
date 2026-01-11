@@ -1,0 +1,67 @@
+[
+  {
+    "productName": "Sample Product A",
+    "category": "Electronics",
+    "purchaseprice": 500,
+    "purchaseDiscount": 5,
+    "price": 550,
+    "quantity": 1000,
+    "unit": "pcs",
+    "hsnCode": "31021000",
+    "gstPercentage": 18,
+    "tax":10,
+    "expireDate": "2025-12-31"
+  },
+  {
+    "productName": "Sample Product B",
+    "category": "Home & Garden",
+    "purchaseprice": 1200,
+    "purchaseDiscount": 10,
+    "price": 1300,
+    "quantity": 500,
+    "unit": "pcs",
+    "hsnCode": "31053000",
+    "gstPercentage": 12,
+    "tax":20,
+    "expireDate": "2026-06-30"
+  },
+  {
+    "productName": "Sample Product C",
+    "category": "Office Supplies",
+    "purchaseprice": 800,
+    "purchaseDiscount": 7,
+    "price": 850,
+    "quantity": 750,
+    "unit": "pcs",
+    "hsnCode": "31043000",
+    "gstPercentage": 12,
+    "tax":30,
+    "expireDate": "2025-11-15"
+  },
+  {
+    "productName": "Sample Product D",
+    "category": "General Merchandise",
+    "purchaseprice": 1500,
+    "purchaseDiscount": 8,
+    "price": 1600,
+    "quantity": 300,
+    "unit": "pcs",
+    "hsnCode": "31052000",
+    "gstPercentage": 5,
+    "tax":10,
+    "expireDate": "2026-03-20"
+  },
+  {
+    "productName": "Sample Product E",
+    "category": "Consumables",
+    "purchaseprice": 600,
+    "purchaseDiscount": 6,
+    "price": 650,
+    "quantity": 900,
+    "unit": "pcs",
+    "hsnCode": "31022100",
+    "gstPercentage": 18,
+    "tax":10,
+    "expireDate": "2025-01-31"
+  }
+]

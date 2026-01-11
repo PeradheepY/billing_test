@@ -1,0 +1,57 @@
+[
+    {
+      "product": "6735da9ae16b8a1d85e59015",
+      "name": "Pink Princess Dress",
+      "image":"/kid_dresses/product1.webp",
+      "quantity": 1,
+      "price": 29.99
+    },
+    {
+      "product": "6735da9ae16b8a1d85e59016",
+      "name": "Blue Denim Dress",
+      "image":"/kid_dresses/product2.webp",
+      "quantity": 1,
+      "price": 24.99
+    },
+    {
+      "name": "Floral Summer Dress",
+      "quantity": 1,
+      "price": 19.99
+    },
+    {
+      "name": "Red Velvet Holiday Dress",
+      "quantity": 1,
+      "price": 49.99
+    },
+    {
+      "name": "Green Polka Dot Dress",
+      "quantity": 1,
+      "price": 22.99
+    },
+    {
+      "name": "Yellow Tulle Party Dress",
+      "quantity": 1,
+      "price": 34.99
+    },
+    {
+      "name": "White Lace Flower Girl Dress",
+      "quantity": 1,
+      "price": 59.99
+    },
+    {
+      "name": "Purple Little Fairy Dress",
+      "quantity": 1,
+      "price": 27.99
+    },
+    {
+      "name": "Black Velvet Dress",
+      "quantity": 1,
+      "price": 39.99
+    },
+    {
+      "name": "Pink Flower Print Dress",
+      "quantity": 1,
+      "price": 19.99
+    }
+  ]
+  
